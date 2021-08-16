@@ -1,2 +1,0 @@
-# pruebaMiJuego
-# hola
