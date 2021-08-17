@@ -27,6 +27,7 @@
 
 
 		if ($accion == "menu"){
+			echo "hola";
 			}
 
 
